@@ -6,7 +6,7 @@ const portfolio = {
   location: "Sweden",
   email: "samyuktha.basam@gmail.com",
   github: "https://github.com/samyuktha215",
-  linkedin: "www.linkedin.com/in/samyuktha-basam",
+  linkedin: "https://www.linkedin.com/in/samyuktha-basam",
   resume: "/resume.pdf",
 };
 
